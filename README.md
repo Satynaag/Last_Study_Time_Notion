@@ -1,10 +1,10 @@
 # StudyNotion
 ## Live 
-https://study-notion-frontend-wheat.vercel.app/ \
+https://last-study-time-notion-frontend.vercel.app/ \
 otp mail will be in your spam section
 ## Installation
 
-1. Clone the repository: `https://github.com/Horror26/StudyNotion.git`
+1. Clone the repository: `https://github.com/Satynaag/Last_Study_Time_Notion/tree/main`
 2. Navigate to the project directory: `cd `
 3. Install dependencies: `npm install`
 
